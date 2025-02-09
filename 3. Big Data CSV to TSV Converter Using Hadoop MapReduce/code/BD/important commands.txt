@@ -1,0 +1,6 @@
+pip install mrjob
+
+
+
+
+time python mapper.py -r hadoop hdfs:///user/hadoop/simpleinput.txt --output-dir hdfs:///output --jobconf mapreduce.job.reduces=1 && python reducer.py -r hadoop hdfs:///output/* --output-dir hdfs:///final_output

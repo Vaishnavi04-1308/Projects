@@ -1,0 +1,379 @@
+{"posts" : [{
+    "Academic Resources" : [
+    {
+      "postid":1,  
+      "author": "Remy Sharp",
+      "Title": "Academic Resources1",
+      "Content": "I absolutely love how versatile this product is! Whether I'm tackling work projects or indulging in my favorite hobbies, it seamlessly adapts to my changing needs. Its intuitive design has truly enhanced my daily routine, making tasks more efficient and enjoyable.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+      "postid":2, 
+      "author": "Travis Howard",
+      "Title": "Academic Resources2",
+      "Content": "One of the standout features of this product is the exceptional customer support. In my experience, the team behind this product has been quick to respond and incredibly helpful. It's reassuring to know that they stand firmly behind their product.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+
+]},
+{"Career Services":[
+    {
+        "postid":3, 
+      "author": "Cindy Baker",
+      "Title": "Career Services1",
+      "Content":
+        "The level of simplicity and user-friendliness in this product has significantly simplified my life. I appreciate the creators for delivering a solution that not only meets but exceeds user expectations.",
+        "comments" : [
+            {
+                "name":"Asraf",
+                "reply":"the way this go is out of the box"
+            },
+            {
+                "name":"Kamal",
+                "reply":"the topic is so contreversial"
+            }
+          ]
+    },
+    {
+        "postid":4, 
+      "author": "Julia Stewar",
+      "Title": "Career Services2",
+      "Content": "I appreciate the attention to detail in the design of this product. The small touches make a big difference, and it's evident that the creators focused on delivering a premium experience.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]},
+{"Campus":[
+    {
+        "postid":5, 
+      "author": "John Smith",
+      "Title": "Campus1",
+      "Content": "I've tried other similar products, but this one stands out for its innovative features. It's clear that the makers put a lot of thought into creating a solution that truly addresses user needs.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+        "postid":6, 
+      "author": "Stewar Wolf",
+      "Title": "Campus2",
+      "Content": "The quality of this product exceeded my expectations. It's durable, well-designed, and built to last. Definitely worth the investment!",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]},
+{"Culture":[
+    {
+        "postid":7, 
+      "author": "John Stewar",
+      "Title": "Culture1",
+      "Content": "I've tried other similar products, but this one stands out for its innovative features. It's clear that the makers put a lot of thought into creating a solution that truly addresses user needs.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+        "postid":8, 
+      "author": "Daniel Wolf",
+      "Title": "Culture2",
+      "Content": "The quality of this product exceeded my expectations. It's durable, well-designed, and built to last. Definitely worth the investment!",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]},
+{"Local Community Resources":[
+    {
+        "postid":9, 
+      "author": "Stewar Smith",
+      "Title": "Local Community Resources1",
+      "Content": "I've tried other similar products, but this one stands out for its innovative features. It's clear that the makers put a lot of thought into creating a solution that truly addresses user needs.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+        "postid":10, 
+      "author": "Daniel Wolf",
+      "Title": "Local Community Resources2",
+      "Content": "The quality of this product exceeded my expectations. It's durable, well-designed, and built to last. Definitely worth the investment!",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]},
+{"Social":[
+    {
+        "postid":11, 
+      "author": "John Wolf",
+      "Title": "Social1",
+      "Content": "I've tried other similar products, but this one stands out for its innovative features. It's clear that the makers put a lot of thought into creating a solution that truly addresses user needs.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+        "postid":12, 
+      "author": "Daniel Wolf",
+      "Title": "Social2",
+      "Content": "The quality of this product exceeded my expectations. It's durable, well-designed, and built to last. Definitely worth the investment!",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]},
+{"Sports":[
+    {
+        "postid":13, 
+      "author": "Daniel Smith",
+      "Title": "Sports1",
+      "Content": "I've tried other similar products, but this one stands out for its innovative features. It's clear that the makers put a lot of thought into creating a solution that truly addresses user needs.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+        "postid":14, 
+      "author": "Smith Wolf",
+      "Title": "Sports2",
+      "Content": "The quality of this product exceeded my expectations. It's durable, well-designed, and built to last. Definitely worth the investment!",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]},
+{"Health and Wellness":[
+    {
+        "postid":15, 
+      "author": "John Baker",
+      "Title": "Health and Wellness1",
+      "Content": "I've tried other similar products, but this one stands out for its innovative features. It's clear that the makers put a lot of thought into creating a solution that truly addresses user needs.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+        "postid":16, 
+      "author": "Daniel Wolf",
+      "Title": "Health and Wellness2",
+      "Content": "The quality of this product exceeded my expectations. It's durable, well-designed, and built to last. Definitely worth the investment!",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]},
+{"Technology":[
+    {
+        "postid":17, 
+      "author": "Baker Smith",
+      "Title": "Technology1",
+      "Content": "I've tried other similar products, but this one stands out for its innovative features. It's clear that the makers put a lot of thought into creating a solution that truly addresses user needs.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+        "postid":18, 
+      "author": "Daniel Baker",
+      "Title": "Technology2",
+      "Content": "The quality of this product exceeded my expectations. It's durable, well-designed, and built to last. Definitely worth the investment!",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]},
+{"Travel":[
+    {
+        "postid":19, 
+      "author": "John Smith",
+      "Title": "Travel1",
+      "Content": "I've tried other similar products, but this one stands out for its innovative features. It's clear that the makers put a lot of thought into creating a solution that truly addresses user needs.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+        "postid":20, 
+      "author": "Daniel Wolf",
+      "Title": "Travel2",
+      "Content": "The quality of this product exceeded my expectations. It's durable, well-designed, and built to last. Definitely worth the investment!",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]},
+{"Alumni":[
+    {
+        "postid":21, 
+      "author": "John Smith",
+      "Title": "Alumni1",
+      "Content": "I've tried other similar products, but this one stands out for its innovative features. It's clear that the makers put a lot of thought into creating a solution that truly addresses user needs.",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    },
+    {
+        "postid":22, 
+      "author": "Daniel Wolf",
+      "Title": "Alumni2",
+      "Content": "The quality of this product exceeded my expectations. It's durable, well-designed, and built to last. Definitely worth the investment!",
+      "comments" : [
+        {
+            "name":"Asraf",
+            "reply":"the way this go is out of the box"
+        },
+        {
+            "name":"Kamal",
+            "reply":"the topic is so contreversial"
+        }
+      ]
+    }
+]}
+]
+}

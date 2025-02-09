@@ -1,0 +1,44 @@
+Test#1: SetPrice 20 InsertLargeCups 3 Coin Coin LargeCup Coffee Dispose
+Test#2: InsertLargeCups 3 SetPrice 20 Coin LargeCup Sugar Coin Coffee Dispose
+Test#3: InsertSmallCups 3 SetPrice 20 Coin SmallCup Sugar Coffee Dispose
+Test#4: InsertSmallCups 1 SetPrice 20 Coin Sugar SmallCup Coin Coffee InsertSmallCups 1 Coin SmallCup Coffee InsertSmallCups 2 Dispose
+Test#5: SetPrice 20 InsertLargeCups 2 InsertSmallCups 2 Coin SmallCup LargeCup Sugar LargeCup Sugar Cancel Dispose
+Test#6: Dispose
+Test#7: SetPrice 100 InsertLargeCups 1 InsertLargeCups 1 Coin SetPrice 10 InsertSmallCups 1 InsertSmallCups 1 Coin LargeCup LargeCup SmallCup SmallCup Cancel SetPrice 12 Dispose
+Test#8: SetPrice 100 InsertSmallCups 1 Coin SetPrice 12 SetPrice 10 Coin Cancel Coin Coin Coin SmallCup Sugar SmallCup Coffee InsertSmallCups 1 InsertLargeCups 1 Dispose
+Test#9: SetPrice 10 InsertSmallCups 2 InsertLargeCups 1 Coin Sugar SmallCup Coffee Coin LargeCup Coin Coffee Coin Coin InsertLargeCups 1 Coin SmallCup Coin Sugar Cancel Dispose
+Test#10: InsertSmallCups 1 SetPrice 2 Coin SmallCup Sugar Coin Sugar Coffee Coin Coin InsertSmallCups 1 InsertSmallCups 1 Dispose
+Test#11: SetPrice 26 Coin InsertLargeCups 1 Coin Sugar LargeCup LargeCup Sugar Coffee InsertLargeCups 1 InsertSmallCups 1 Coin Coin SmallCup Sugar Coffee Coin InsertSmallCups 1 SetPrice 100 Coin Dispose
+Test#12: SetPrice 51 Coin Coin InsertSmallCups 1 InsertLargeCups 1 Coin LargeCup Sugar Coffee InsertLargeCups 1 InsertLargeCups 1 SetPrice 2 Coin LargeCup Sugar Coffee Coin Sugar SmallCup SmallCup Cancel SetPrice 10 Dispose
+Test#13: SetPrice 25 InsertLargeCups 1 Coin LargeCup Cancel Coin LargeCup Sugar Coffee Coin InsertLargeCups 1 Coin Coin Cancel InsertSmallCups 1 Dispose
+Test#14: InsertSmallCups 2 SetPrice 10 Coin Sugar Coin Coin SmallCup Sugar Coin Coffee InsertSmallCups 1 Coin LargeCup SmallCup Coffee InsertLargeCups 1 Coin LargeCup Coffee InsertLargeCups 1 Dispose
+Test#15: InsertSmallCups 2 SetPrice 2 Coin SmallCup Sugar Coin Coin Coffee InsertLargeCups 1 Coin Sugar Coin Cancel InsertLargeCups 1 Coin Sugar Sugar LargeCup Coin Coffee InsertLargeCups 1 Dispose
+Test#16: InsertSmallCups 1 SetPrice 10 Coin SmallCup Coin Coffee InsertSmallCups 1 InsertLargeCups 2 Coin Sugar Coin LargeCup Coffee InsertSmallCups 1 Coin SmallCup Coin Coffee SetPrice 20 Dispose
+Test#17: InsertLargeCups 1 InsertSmallCups 2 SetPrice 10 Coin Sugar SmallCup Sugar Coffee Coin Sugar LargeCup Cancel Coin Sugar LargeCup Coin Coffee InsertLargeCups 1 Coin Sugar Cancel InsertSmallCups 1 Dispose
+Test#18: InsertLargeCups 1 SetPrice 50 Coin Coin Sugar SmallCup LargeCup Coffee InsertLargeCups 1 Coin Coin Sugar Sugar Sugar LargeCup SmallCup Cancel Coin Dispose
+Test#19: InsertSmallCups 1 SetPrice 50 Coin Coin Sugar Sugar SmallCup Coffee InsertSmallCups 1 Coin Coin Cancel InsertLargeCups 2 Coin Coin Cancel Coin Dispose
+Test#20: InsertLargeCups 3 SetPrice 10 Coin LargeCup Sugar Sugar Coffee InsertSmallCups 3 Coin Sugar SmallCup Coffee SetPrice 51 Dispose
+Test#21: SetPrice 10 InsertLargeCups 1 Coin LargeCup Coffee InsertLargeCups 1 SetPrice 50 InsertLargeCups 3 Coin Coin LargeCup Coffee Coin Coin LargeCup Sugar Coffee Coin InsertSmallCups 3 Coin SmallCup Coffee Coin Dispose
+Test#22: InsertSmallCups 3 InsertLargeCups 3 SetPrice 10 Coin Sugar LargeCup Coffee InsertLargeCups 3 Coin Sugar LargeCup Coffee SetPrice 50 Coin Coin Sugar SmallCup Coffee Coin Coin SmallCup Coffee Dispose
+Test#23: InsertSmallCups 3 InsertLargeCups 3 SetPrice 10 Coin LargeCup Coffee SetPrice 8 Coin LargeCup Coffee Coin SmallCup Sugar Coffee InsertSmallCups 3 Dispose
+Test#24: SmallCup LargeCup Sugar Coffee InsertLargeCups 0 InsertLargeCups -1 InsertSmallCups 0 InsertSmallCups -1 SetPrice 0 SetPrice -1 Cancel Coin Dispose
+Test#25: SetPrice 10 Coin LargeCup Coffee SmallCup Coffee InsertLargeCups 2 InsertSmallCups 3 SetPrice 2 Dispose Cancel Dispose
+Test#26: SetPrice 10 InsertLargeCups 2 Coin Coffee Cancel Dispose
+Test#27: SetPrice 10 InsertSmallCups 2 Coin Coffee Cancel Dispose
+Test#28: SetPrice 10 Coin Sugar LargeCup Coffee SmallCup Coffee InsertLargeCups 2 InsertSmallCups 2 Dispose SetPrice 2 Cancel Dispose
+Test#29: SetPrice 10 InsertLargeCups 2 Coin Sugar Coffee InsertLargeCups 1 Cancel Dispose
+Test#30: SetPrice 10 InsertSmallCups 2 Coin Sugar Coffee InsertSmallCups 1 Cancel Dispose
+Test#31: SetPrice 10 InsertSmallCups 1 Coin SmallCup Coffee SmallCup LargeCup Sugar Coffee InsertLargeCups 1 InsertSmallCups 0 InsertSmallCups -1 SetPrice 2 Dispose Cancel InsertSmallCups 2 Dispose
+Test#32: SetPrice 10 InsertLargeCups 1 Coin LargeCup Coffee SmallCup LargeCup Sugar Coffee InsertLargeCups 0 InsertLargeCups -1 InsertSmallCups 2 SetPrice 2 Cancel Dispose InsertLargeCups 2 Dispose
+Test#33: SetPrice 10 InsertSmallCups 2 Coin Sugar Coin SmallCup Coffee Coin SmallCup Coffee InsertSmallCups 2 Dispose
+Test#34: SetPrice 10 InsertLargeCups 2 Coin Sugar LargeCup Coffee Coin Coin LargeCup Coffee InsertLargeCups 2 Coin Cancel Dispose
+Test#35: SetPrice 10 InsertLargeCups 1 Coin Sugar LargeCup Coffee InsertLargeCups 2 Coin LargeCup Coffee Dispose
+Test#36: SetPrice 50 InsertSmallCups 1 Coin Coin SmallCup Sugar Coffee InsertSmallCups 2 Coin Coin SmallCup Coffee Dispose
+Test#37: SetPrice 10 InsertLargeCups 3 InsertSmallCups 1 Coin Sugar Sugar Sugar SmallCup Coffee InsertSmallCups 3 Coin Sugar Cancel Dispose
+Test#38: InsertSmallCups 3 Coin SetPrice 10 Coin Coffee Dispose Cancel Dispose
+Test#39: InsertLargeCups 3 SetPrice 10 Coin Coffee SmallCup Coffee Cancel SmallCup LargeCup Dispose
+Test#40: SetPrice 10 InsertSmallCups 2 InsertLargeCups 1 Sugar Coin Sugar Coffee SmallCup Coffee Coin Sugar Coffee Sugar Coffee InsertSmallCups 3 InsertLargeCups 3 Cancel Dispose
+Test#41: SetPrice 10 InsertLargeCups 0 InsertSmallCups 0 Cancel Coffee InsertLargeCups 2 Coin SetPrice 20 SmallCup Coffee Sugar Coffee SetPrice 0 Cancel Dispose
+Test#42: SetPrice 0 SetPrice 10 InsertSmallCups 1 Coin LargeCup Coffee Sugar Coffee SmallCup Coffee InsertSmallCups 0 InsertSmallCups 2 Dispose
+Test#43: SetPrice 10 InsertLargeCups 1 Coin LargeCup Coffee InsertLargeCups 0 InsertLargeCups 1 Dispose
+$$ $$
